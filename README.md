@@ -1,1 +1,2 @@
-# Python_DS_UFF_2021
+# Escola de Verão 2021
+## Python para Data Science.
