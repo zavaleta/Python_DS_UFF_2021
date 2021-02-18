@@ -10,6 +10,8 @@
 Este curso apresentará uma breve introdução de técnicas de ciências de dados através de programação na linguagem Python. Preparar e capacitar alunos/interessados para compreender o fenômeno dos grandes volumes de dados (Big Data) e se apropriar dos fundamentos, técnicas e ferramentas de visualização de dados usados em Data Science e aplicações na Engenharia.
 
 ## Ementa
+**Horário: 08:00 - 10:00 am.**
+
 |        |   Tema                   | Jupyter Notebook | PDF       |
 |:-------|:-------------------------|:-----------------|:---------:|
 |Segunda | Tipos de Dados           |                  |  [<img src="images/pdf2.png" alt="pdf" width="25"/>](pdf/)      |
@@ -30,4 +32,4 @@ Este curso apresentará uma breve introdução de técnicas de ciências de dado
 8. Michel Bowles, Machine Learning in Python® : Essential Techniques for Predictive Analysis. John Wiley & Sons, Inc. 2015.
 
 ---
-Python para Data Science \&copyrights, Jorge Zavaleta, 2021
+**Python para Data Science &copy; copyright, Jorge Zavaleta, 2021**
