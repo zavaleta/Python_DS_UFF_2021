@@ -6,7 +6,8 @@
 ## Python para Data Science
 ### Prof. Dr. Jorge Zavaleta
 ---
-Objetivo do curso:
+### Objetivo do curso:
+Este curso apresentará noções básicas sobre a linguagem Python necessárias para analisar dados e conduzir a ciência dos dados. Especificamente, o interessado aprenderá como usar:
 
 ## Ementa
 |        |   Tema                   | Jupyter Notebook | PDF       |
