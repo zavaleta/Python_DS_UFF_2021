@@ -7,7 +7,7 @@
 ### Prof. Dr. Jorge Zavaleta
 ---
 ### Objetivo do curso:
-Este curso apresentará uma breve introdução de técnicas de ciências de dados através de programação na linguagem Python. Preparar e capacitar alunos/interessados para compreender o fenômeno dos grandes volumes de dados (Big Data) e se apropriar dos fundamentos, técnicas e ferramentas de visualização usados em Data Science e aplicações na Engenharia.
+Este curso apresentará uma breve introdução de técnicas de ciências de dados através de programação na linguagem Python. Preparar e capacitar alunos/interessados para compreender o fenômeno dos grandes volumes de dados (Big Data) e se apropriar dos fundamentos, técnicas e ferramentas de visualização de de dados usados em Data Science e aplicações na Engenharia.
 
 ## Ementa
 |        |   Tema                   | Jupyter Notebook | PDF       |
@@ -19,6 +19,7 @@ Este curso apresentará uma breve introdução de técnicas de ciências de dado
 |Sexta   | Aplicações               |                  | [<img src="images/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
 
 #### Bibligrafia
+
 1. Wes McKinny, Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, 2nd edition O'Reilly Media, 2017
 2. Mark Lutz, Learning Python, 5th Edition, O'Reilly Media, 2013
 3. Jonh Hearty, Advanced Machine Learning with Python. Packt Publishing, 2016.
