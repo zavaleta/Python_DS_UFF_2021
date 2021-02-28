@@ -3,10 +3,7 @@
 ## Programa de Pós-Graduação em Engenharia de Biossistemas
 # Escola de Verão 2021
 ---
-## Python para Data Science
-### Prof. Dr. Jorge Zavaleta
-#### e-mail: [jorge.zavaleta@ppgi.ufrj.br](mailto:jorge.zavaleta@ppgi.ufrj.br)
-![](imagens/uff-jorge.png)
+![jorge](imagens/uff-jorge.png)
 ---
 ### Objetivo do curso:
 Este curso apresentará uma breve introdução de técnicas de ciências de dados através de programação na linguagem Python. Preparar e capacitar alunos/interessados para compreender o fenômeno dos grandes volumes de dados (Big Data) e se apropriar dos fundamentos, técnicas e ferramentas de visualização de dados usados em Data Science e aplicações na Engenharia.
