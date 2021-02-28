@@ -1,11 +1,12 @@
-![](images/verao_uff.png)
+![](imagens/verao_uff.png)
 ## Universidade Federal Fluminense - UFF
-## Programa de Pós-Gradução em Engenharia de Biossistemas
+## Programa de Pós-Graduação em Engenharia de Biossistemas
 # Escola de Verão 2021
 ---
 ## Python para Data Science
 ### Prof. Dr. Jorge Zavaleta
 #### e-mail: [jorge.zavaleta@ppgi.ufrj.br](mailto:jorge.zavaleta@ppgi.ufrj.br)
+![](imagens/uff-jorge.png)
 ---
 ### Objetivo do curso:
 Este curso apresentará uma breve introdução de técnicas de ciências de dados através de programação na linguagem Python. Preparar e capacitar alunos/interessados para compreender o fenômeno dos grandes volumes de dados (Big Data) e se apropriar dos fundamentos, técnicas e ferramentas de visualização de dados usados em Data Science e aplicações na Engenharia.
@@ -14,12 +15,13 @@ Este curso apresentará uma breve introdução de técnicas de ciências de dado
 **Horário: 08:00 - 10:00 am.**
 
 |        |   Tema                   | Jupyter Notebook | PDF       |
-|:-------|:-------------------------|:-----------------|:---------:|
-|Segunda | Tipos de Dados           |                  |  [<img src="images/pdf2.png" alt="pdf" width="25"/>](pdf/)      |
-|Terça   | Estruturas de Controle   |                  | [<img src="images/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
-|Quarta  | Numpy e Pandas           |                  | [<img src="images/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
-|Quinta  | Visualização de Dados    |                  | [<img src="images/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
-|Sexta   | Aplicações               |                  | [<img src="images/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
+|:-------|:-------------------------|:-----------------:|:---------:|
+| --     | Instalação do Jupyter    |  [<img src="imagens/jupyter1.png" alt="pdf" width="40"/>](REAME.md)                 |  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/verao_uff.pdf)      |
+|Segunda | Tipos de Dados           |                  |  [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)      |
+|Terça   | Estruturas de Controle   |                  | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
+|Quarta  | Numpy e Pandas           |                  | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
+|Quinta  | Visualização de Dados    |                  | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
+|Sexta   | Aplicações               |                  | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
 
 #### Bibligrafia
 
