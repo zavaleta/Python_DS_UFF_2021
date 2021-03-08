@@ -14,11 +14,11 @@ Este curso apresentará uma breve introdução de técnicas de ciências de dado
 |        |   Tema                   | Jupyter Notebook | PDF       |
 |:-------|:-------------------------|:-----------------:|:---------:|
 | --     | Instalação do Jupyter    |  [<img src="imagens/jupyter1.png" alt="pdf" width="40"/>]('https://github.com/zavaleta/Python_DS_UFF_2021')                 |  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/verao_uff_2021.pdf)      |
-|Segunda | Tipos de Dados           | [Tipos de dados](PDS_UFF_2021_01.ipynd)               |  [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)      |
-|Terça   | Estruturas de Controle   |                  | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
-|Quarta  | Numpy e Pandas           |                  | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
-|Quinta  | Visualização de Dados    |                  | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
-|Sexta   | Aplicações               |                  | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
+|Segunda | Tipos de Dados. Estruturas de Controle   | [Tipos e Estruturas](PDS_UFF_2021_01.ipynd)               |  [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)      |
+|Terça   | Numpy  e Pandas            |   Numpy-Pandas    | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
+|Quarta  | Visualização de dados  I   |     Visualização I             | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
+|Quinta  | Visualização de dados II   |    Visualização II             | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
+|Sexta   | Aplicações        |      Aplicações          | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
 
 #### Bibligrafia
 
