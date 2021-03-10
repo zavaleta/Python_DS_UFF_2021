@@ -16,7 +16,7 @@ Este curso apresentará uma breve introdução de técnicas de ciências de dado
 | --     | Instalação do Jupyter    |  [<img src="imagens/jupyter1.png" alt="pdf" width="40"/>]('https://github.com/zavaleta/Python_DS_UFF_2021')                 |  [<img src="imagens/pdf1.png" alt="pdf" width="25"/>](pdf/verao_uff_2021.pdf)      |
 |Segunda | Tipos de Dados. Estruturas de Controle   | [Tipos e Estruturas](PDS_UFF_2021_01.ipynb)               |  [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)      |
 |Terça   | Numpy  e Pandas     | [Numpy](PDS_UFF_2021_02.ipynb) [Pandas](PDS_UFF_2021_03.ipynb)    | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
-|Quarta  | Visualização de dados  I   |     Visualização I             | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
+|Quarta  | Visualização de dados  I   | [Matplotlib](PDS_UFF_2021_04.ipynb)             | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
 |Quinta  | Visualização de dados II   |    Visualização II             | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
 |Sexta   | Aplicações        |      Aplicações          | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
 
