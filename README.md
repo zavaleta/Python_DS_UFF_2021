@@ -18,7 +18,7 @@ Este curso apresentará uma breve introdução de técnicas de ciências de dado
 |Terça   | Numpy  e Pandas     | [Numpy](PDS_UFF_2021_02.ipynb) [Pandas](PDS_UFF_2021_03.ipynb)    | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
 |Quarta  | Visualização de dados  I   | [Gráficos Estáticos](PDS_UFF_2021_04.ipynb)             | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
 |Quinta  | Visualização de dados II   | [Gráficos Interativos](PDS_UFF_2021_05.ipynb)             | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
-|Sexta   | Aplicações        |      Aplicações          | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
+|Sexta   | Aplicações      |   [Aprendizado Supervisionado](PDS_UFF_2021_06.ipynb)          | [<img src="imagens/pdf2.png" alt="pdf" width="25"/>](pdf/)        |
 
 #### Bibligrafia
 
